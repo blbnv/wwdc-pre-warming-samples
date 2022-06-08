@@ -29,4 +29,4 @@ For now, one of our hypotheses is to use the `isProtectedDataAvailable` property
 3. Are there any tips how to simulat prewarming for testing and experiments?
 4. Is it possible to simulate it during the testing? Example: `XCUITests`
 5. We have both `AppDelegate` and `SceneDelegate` lifecycles for different applications. Could it be somehow related?
-6. Do you have any suggestions how to track app launch properly since the processStartTime including the pre-warmung?
+6. Do you have any suggestions how to track app launch properly since the processStartTime including the pre-warming?
